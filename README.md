@@ -25,4 +25,3 @@ I'm passionate about backend development, statistical analysis, and data science
 - [Email](mailto:karunairasa.kishobigan01@gmail.com)
 
 ## Featured Projects
-- [My Repository](https://github.com/kishobigan/kishobigan-profile) - A brief description of what the repository is about.
